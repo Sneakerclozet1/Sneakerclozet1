@@ -1,2 +1,0 @@
-# Sneakerclozet1
-homePage
